@@ -1,2 +1,2 @@
 # TO DO LIST IN FILE
-IT CREATE A FILE WRITE ALL THAT HAS TO BE DONE . WE CAN REMOVE TASK FROM FILE AND SEE TASK REMAIN TO COMPLETE AND WE CAN CLEAR ALL THE TASK FROM FILE
+it create a file and add task in file and it can remove the item from file and we can remove all item at once and we can see the task that needed to be accomplish
